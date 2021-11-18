@@ -13,7 +13,7 @@ final List<String> filtros = [
   'Cafeteria',
   'Panadería',
 ];
-
+//Prueba
 final List<String> nombreLocal = [
   'La Heladeria de mi barrio',
   'Panaderia Pasteleria Din Don Pan'
